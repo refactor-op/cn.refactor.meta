@@ -16,8 +16,9 @@
 ## 包
 
 - **[cn.refactor.pool](https://github.com/refactor-op/cn.refactor.pool)**: 高性能 0GC 对象池 ![完成](https://img.shields.io/badge/状态-完成-brightgreen)
+- **[cn.refactor.pool.extra](https://github.com/refactor-op/cn.refactor.pool.extra)**: 额外的对象池功能 ![完成](https://img.shields.io/badge/状态-完成-brightgreen)
 - **时钟 & 调度器**: 高精度时间管理和任务调度 ![进行中](https://img.shields.io/badge/状态-进行中-yellow)
-- **状态机**: 高性能有限状态机 ![计划中](https://img.shields.io/badge/状态-计划中-lightgrey)
+- **[cn.refactor.fsm](https://github.com/refactor-op/cn.refactor.fsm)**: 高性能有限状态机 ![完成](https://img.shields.io/badge/状态-完成-brightgreen)
 - **响应式 & 事件系统**: 基于 R3 的事件处理 ![计划中](https://img.shields.io/badge/状态-计划中-lightgrey)
 - **依赖注入**: 轻量级 DI 容器 ![计划中](https://img.shields.io/badge/状态-计划中-lightgrey)
 - **UI 框架**: MVVM 模式的 UI 解决方案 ![计划中](https://img.shields.io/badge/状态-计划中-lightgrey)
@@ -67,6 +68,6 @@
 
 欢迎 PR & Issue!
 
-<!-- <div align="center">
-  <sub>Refactor</sub>
-</div> -->
+<div align="center">
+  <p><i>Your time is limited, so don't waste it living someone else's life.</i></p>
+</div>
