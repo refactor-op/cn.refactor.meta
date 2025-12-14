@@ -5,11 +5,11 @@
 
 ## 包
 
-| 包名 | 源码仓库 |
-| :--- | :--- |
-| **com.refactor.fsm** | [refactor-op/com.refactor.fsm](https://github.com/refactor-op/com.refactor.fsm) |
-| **com.refactor.gas** | [refactor-op/com.refactor.gas](https://github.com/refactor-op/com.refactor.gas) |
-| **com.refactor.pooling** | [refactor-op/com.refactor.pooling](https://github.com/refactor-op/com.refactor.pooling) |
+| 包名 | 描述 | 源码仓库 |
+| :--- | :--- | :--- |
+| **com.refactor.fsm** | 轻量级、高性能的状态机实现，支持状态栈、分层状态机与流式建造 | [refactor-op/com.refactor.fsm](https://github.com/refactor-op/com.refactor.fsm) |
+| **com.refactor.gas** | 基于字节码的属性与公式系统，支持 Float/Double 精度 | [refactor-op/com.refactor.gas](https://github.com/refactor-op/com.refactor.gas) |
+| **com.refactor.pooling** | 零分配、确定性生命周期管理的对象池，支持自定义策略与 RAII 模式 | [refactor-op/com.refactor.pooling](https://github.com/refactor-op/com.refactor.pooling) |
 
 ## 安装
 
