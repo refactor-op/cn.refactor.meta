@@ -7,8 +7,8 @@
 
 | 包名 | 描述 | 源码仓库 |
 | :--- | :--- | :--- |
-| **com.refactor.fsm** | 轻量级、高性能的状态机实现，支持状态栈、分层状态机与流式建造 | [refactor-op/com.refactor.fsm](https://github.com/refactor-op/com.refactor.fsm) |
-| **com.refactor.gas** | 基于字节码的属性与公式系统，支持 Float/Double 精度 | [refactor-op/com.refactor.gas](https://github.com/refactor-op/com.refactor.gas) |
+| **com.refactor.fsm** | 数组索引驱动的 enum FSM，使用共享上下文，支持从已有的 FSM 克隆并增删状态从而生成派生 FSM | [refactor-op/com.refactor.fsm](https://github.com/refactor-op/com.refactor.fsm) |
+| **com.refactor.gas** | 字节码栈机，将基础值与修饰符编译成指令流并解释执行，支持 Float/Double 精度 | [refactor-op/com.refactor.gas](https://github.com/refactor-op/com.refactor.gas) |
 | **com.refactor.pooling** | 零分配、确定性生命周期管理的对象池，支持自定义策略与 RAII 模式 | [refactor-op/com.refactor.pooling](https://github.com/refactor-op/com.refactor.pooling) |
 
 ## 安装
